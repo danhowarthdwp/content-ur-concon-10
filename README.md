@@ -40,7 +40,7 @@ Useful resources about card hypothesis-driven design:
 
 ### Ariana Mihoc: card sorting
 
-Ariana is a senior user researcher at the Central Digital & Data Office, part of the UK government. Damien’s lightning talk was on card sorting, a powerful user research technique for creating taxonomies. Ariana did a similar session for the cross-government content community in March, which was recorded. <a href="https://www.youtube.com/watch?v=mRarxgcIIqw">You can see the recording on YouTube</a>.
+Ariana is a senior user researcher at the Central Digital & Data Office, part of the UK government. Her talk was on card sorting, a powerful user research technique for creating taxonomies. Ariana did a similar session for the cross-government content community in March, which was recorded. <a href="https://www.youtube.com/watch?v=mRarxgcIIqw">You can see the recording on YouTube</a>.
 
 Useful resources about card sorting:
 * ‘Card sorting’ (2009) by Donna Spencer, <a href="https://rosenfeldmedia.com/books/card-sorting/">available from Rosenfeld Media</a>
