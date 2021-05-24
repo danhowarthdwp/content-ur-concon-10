@@ -15,7 +15,7 @@ We had 4 lightning talks on how user researchers and content designers can work 
 
 Imran is ResearchOps manager at the Department for Education (DfE), part of the UK government. Imran’s lightning talk was about why content design is making his work better. 
 
-<a href="">Download the slides</a>.
+<a href="https://github.com/danhowarthdwp/content-ur-concon-10/blob/main/Imran%20Akhtar%20%E2%80%93%20content%20design%20is%20making%20my%20work%20better.pptx">Download the slides</a>.
 
 
 ### Venetia Wan: a user researcher’s take on how we can work together
@@ -29,7 +29,7 @@ Venetia is a user researcher at HM Courts and Tribunals Service (HMCTS), part of
 
 Dan is a senior content designer at the Department for Work and Pensions (DWP), part of the UK government. His talk was about hypothesis-driven design, and how we might use it as a framework for doing design work and talking about what we learn. 
 
-<a href="">Download the slides</a>.
+<a href="https://github.com/danhowarthdwp/content-ur-concon-10/blob/main/Dan%20Howarth%20%E2%80%93%20hypothesis-driven%20design.pptx">Download the slides</a>.
 
 Useful resources about card hypothesis-driven design:
 * <a href="https://grillopress.github.io/2017/12/10/hypothesis-driven-design.html">‘Hypothesis driven design, blog post by Andrew Duckworth (2017)</a>
