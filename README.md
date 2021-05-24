@@ -31,7 +31,7 @@ Dan is a senior content designer at the Department for Work and Pensions (DWP), 
 
 <a href="https://github.com/danhowarthdwp/content-ur-concon-10/blob/main/Dan%20Howarth%20%E2%80%93%20hypothesis-driven%20design.pptx">Download the slides</a>.
 
-Useful resources about card hypothesis-driven design:
+Useful resources about hypothesis-driven design:
 * <a href="https://grillopress.github.io/2017/12/10/hypothesis-driven-design.html">‘Hypothesis driven design, blog post by Andrew Duckworth (2017)</a>
 * <a href="https://www.hollidazed.co.uk/2015/07/16/everything-is-hypothesis-driven-design/">‘Everything is hypothesis driven design’</a>, blog post by Ben Holliday (2015) 
 * ‘Outcomes Over Outputs’ (2019) by Josh Seiden, Sense and Respond Press
