@@ -33,7 +33,7 @@ Dan is a senior content designer at the Department for Work and Pensions (DWP), 
 
 Useful resources about card hypothesis-driven design:
 * <a href="https://grillopress.github.io/2017/12/10/hypothesis-driven-design.html">‘Hypothesis driven design, blog post by Andrew Duckworth (2017)</a>
-* <a href="https://www.hollidazed.co.uk/2015/07/16/everything-is-hypothesis-driven-design/">‘Everything is hypothesis driven design’, blog post by Ben Holliday (2015) 
+* <a href="https://www.hollidazed.co.uk/2015/07/16/everything-is-hypothesis-driven-design/">‘Everything is hypothesis driven design’</a>, blog post by Ben Holliday (2015) 
 * ‘Outcomes Over Outputs’ (2019) by Josh Seiden, Sense and Respond Press
 * ‘Lean UX: Applying Lean Principles to Improve User Experience’ (2013) by Jeff Gothelf and Josh Seiden, O’Reilly
 
